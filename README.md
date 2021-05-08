@@ -5,7 +5,7 @@ Hello! Here you will find my source files for my "Serotonin Booster" Final Proje
 Thanks for both a great semester and for stopping by!
 
 
-            *     ,MMM8&&&.            *
+             *     ,MMM8&&&.            *
                   MMMM88&&&&&    .
                  MMMM88&&&&&&&
      *           MMM88&&&&&&&&
@@ -25,4 +25,4 @@ Thanks for both a great semester and for stopping by!
   |  |  |  | ) ) |  |  |  |  |  |  |  |  |  |
   |  |  |  |(_(  |  |  |  |  |  |  |  |  |  |
   |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+  jgs|  |  |  |  |  |  |  |  |  |  |  |  |  |
