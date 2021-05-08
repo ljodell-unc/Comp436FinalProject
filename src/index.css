@@ -1,0 +1,33 @@
+
+
+#background3{
+  background-image: url(https://cdn.wallpapersafari.com/12/44/Ldjb83.jpg);
+}
+
+.is-transparent{
+  opacity: 0.7;
+}
+
+.is-visible{
+  opacity: 1;
+}
+
+.hero-body{
+  position: absolute;
+  top: 30%;
+  left: 25%;
+}
+
+.welcome{
+  position: absolute;
+  top:80%;
+  left: 25%;
+}
+
+#connectBoard {
+  width: 530px;
+  height: 350px;
+  
+  
+}
+  
